@@ -50,6 +50,7 @@
 
 <br />
 ![Arduino_Schematic](https://github.com/mb5ss95/ElectronicsExam/assets/60500325/da0ff029-0813-49c6-a127-7ad444704159)
+
 <br />
 <br />
 
